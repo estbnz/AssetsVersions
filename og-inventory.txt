@@ -1,4 +1,4 @@
-v3.27.0 Latest
+1.0.0 Latest
 ^2Features^0
 array: add additional array class methods (Linden)
 client/dui: implement dui handling (#650) #650 (Ceeb)
