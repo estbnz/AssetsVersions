@@ -1,0 +1,15 @@
+v3.27.0 Latest
+@github-actions github-actions released this Oct 23, 2024
+· 8 commits to master since this release
+v3.27.0
+c7bda47
+Features
+array: add additional array class methods (Linden)
+client/dui: implement dui handling (#650) #650 (Ceeb)
+Bug Fixes
+callback/js: match callback timeout to lua (Linden)
+table: regression in contains (Linden)
+Code Refactoring
+table: improve performance of contains, matches, and merge (#647) #647 (Guru Saran)
+streaming: change error message and default timeout (Linden)
+init: move global declarations (Linden)
