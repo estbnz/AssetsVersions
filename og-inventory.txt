@@ -1,10 +1,10 @@
-Features
+^2Features^0
 array: add additional array class methods (Linden)
 client/dui: implement dui handling (#650) #650 (Ceeb)
-Bug Fixes
+^2Bug Fixes^0
 callback/js: match callback timeout to lua (Linden)
 table: regression in contains (Linden)
-Code Refactoring
+^2Code Refactoring^0
 table: improve performance of contains, matches, and merge (#647) #647 (Guru Saran)
 streaming: change error message and default timeout (Linden)
 init: move global declarations (Linden)
